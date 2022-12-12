@@ -1,0 +1,19 @@
+div{
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    font-size: larger;
+}
+
+.button, .plumbers{
+    background-color: rgb(184, 134, 231);
+    padding: 4px;
+    font-weight: 900;
+}
+
+.request__delete{
+    background-color: rgb(255, 51, 51);
+    font-weight: 900;
+}
